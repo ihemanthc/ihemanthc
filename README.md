@@ -30,91 +30,122 @@ I care about building AI features that behave well outside a demo. That means cl
 
 ---
 
-## Focus Areas
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Retrieval Augmented Generation</h4>
-      Building RAG platforms with solid ingestion, retrieval, and grounding so answers stay traceable to source content.
-    </td>
-    <td width="50%" valign="top">
-      <h4>Agentic AI and Multi Agent Systems</h4>
-      Orchestrating tool using agents with LangGraph, MCP, and PydanticAI for workflows that need planning and control.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>LLMOps and Reliability</h4>
-      Provider failover, circuit breaking, caching, rate limiting, cost aware model routing, and dashboards for LLM traffic in production.
-    </td>
-    <td width="50%" valign="top">
-      <h4>Full Stack Delivery</h4>
-      FastAPI backends with React and Next.js frontends, backed by PostgreSQL and Redis, shipped in containers.
-    </td>
-  </tr>
-</table>
-
----
-
 ## Tech Stack
 
-**Languages**
+**Programming Languages**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
-**AI and LLM Frameworks**
+**Generative AI, LLMs and Agentic AI**
 
 <p>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Large Language Models"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-8E44AD?style=for-the-badge" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI-6C3483?style=for-the-badge" alt="Agentic AI"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-D97757?style=for-the-badge" alt="MCP"/>
+  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-D97757?style=for-the-badge" alt="Model Context Protocol"/>
   <img src="https://img.shields.io/badge/PydanticAI-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="PydanticAI"/>
-  <img src="https://img.shields.io/badge/LiteLLM-6C63FF?style=for-the-badge&logo=openai&logoColor=white" alt="LiteLLM"/>
-  <img src="https://img.shields.io/badge/RAG-Pipelines-0F766E?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/LiteLLM-6C63FF?style=for-the-badge" alt="LiteLLM"/>
+  <img src="https://img.shields.io/badge/Tool%20Calling-0F766E?style=for-the-badge" alt="Tool Calling"/>
+  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-34495E?style=for-the-badge" alt="Multi-Agent Systems"/>
 </p>
 
-**Backend and Frontend**
+**RAG, Search and Knowledge Systems**
 
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge" alt="Retrieval Augmented Generation"/>
+  <img src="https://img.shields.io/badge/Hybrid%20Search-117864?style=for-the-badge" alt="Hybrid Search"/>
+  <img src="https://img.shields.io/badge/Vector%20Search-2874A6?style=for-the-badge" alt="Vector Search"/>
+  <img src="https://img.shields.io/badge/Embeddings-5B2C6F?style=for-the-badge" alt="Embeddings"/>
+  <img src="https://img.shields.io/badge/Reranking-7D3C98?style=for-the-badge" alt="Reranking"/>
+  <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector"/>
+  <img src="https://img.shields.io/badge/Chunking%20%26%20Retrieval-566573?style=for-the-badge" alt="Chunking and Retrieval"/>
 </p>
 
-**Data and Storage**
+**LLM Providers and AI Platforms**
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge" alt="Anthropic Claude"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+  <img src="https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Bedrock"/>
+  <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure OpenAI"/>
+  <img src="https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI Foundry"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 </p>
 
-**Machine Learning and MLOps**
+**Machine Learning and Deep Learning**
 
 <p>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers"/>
+  <img src="https://img.shields.io/badge/PEFT-6C3483?style=for-the-badge" alt="PEFT"/>
+  <img src="https://img.shields.io/badge/LoRA%20%26%20QLoRA-5B2C6F?style=for-the-badge" alt="LoRA and QLoRA"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
+
+**LLM Evaluation, Guardrails and Optimization**
+
+<p>
+  <img src="https://img.shields.io/badge/LLM%20Evaluation-34495E?style=for-the-badge" alt="LLM Evaluation"/>
+  <img src="https://img.shields.io/badge/RAG%20Evaluation-117864?style=for-the-badge" alt="RAG Evaluation"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-D35400?style=for-the-badge" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/LLM%20Routing-7D3C98?style=for-the-badge" alt="LLM Routing"/>
+  <img src="https://img.shields.io/badge/Model%20Calibration-2874A6?style=for-the-badge" alt="Model Calibration"/>
+  <img src="https://img.shields.io/badge/Guardrails-B03A2E?style=for-the-badge" alt="AI Guardrails"/>
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge" alt="ONNX"/>
+</p>
+
+**Backend, Frontend and APIs**
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
+</p>
+
+**Databases, Caching and Messaging**
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector"/>
+</p>
+
+**MLOps, LLMOps and Deployment**
+
+<p>
+  <img src="https://img.shields.io/badge/Azure%20Machine%20Learning-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Machine Learning"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-2E86C1?style=for-the-badge" alt="CI/CD"/>
+  <img src="https://img.shields.io/badge/Model%20Serving-566573?style=for-the-badge" alt="Model Serving"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </p>
 
-**Cloud, DevOps and Observability**
+**Observability, Testing and Reliability**
 
 <p>
-  <img src="https://img.shields.io/badge/Azure%20ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure ML"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/>
+  <img src="https://img.shields.io/badge/AI%20Tracing-34495E?style=for-the-badge" alt="AI Tracing"/>
+  <img src="https://img.shields.io/badge/Latency%20%26%20Cost%20Monitoring-117864?style=for-the-badge" alt="Latency and Cost Monitoring"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 ---
