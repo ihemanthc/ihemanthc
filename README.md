@@ -32,16 +32,16 @@ I care about building AI features that behave well outside a demo. That means cl
 
 ## Tech Stack
 
-<p align="left">
+<p align="center">
+  <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
 
-<p align="left">
+  <!-- Generative AI & Agentic AI -->
   <img src="https://img.shields.io/badge/Generative%20AI-8E44AD?style=for-the-badge" alt="Generative AI"/>
   <img src="https://img.shields.io/badge/Agentic%20AI-6C3483?style=for-the-badge" alt="Agentic AI"/>
   <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
@@ -52,9 +52,8 @@ I care about building AI features that behave well outside a demo. That means cl
   <img src="https://img.shields.io/badge/LiteLLM-6C63FF?style=for-the-badge" alt="LiteLLM"/>
   <img src="https://img.shields.io/badge/Multi--Agent%20Systems-34495E?style=for-the-badge" alt="Multi-Agent Systems"/>
   <img src="https://img.shields.io/badge/Tool%20Calling-0F766E?style=for-the-badge" alt="Tool Calling"/>
-</p>
 
-<p align="left">
+  <!-- RAG & Retrieval -->
   <img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge" alt="RAG"/>
   <img src="https://img.shields.io/badge/Hybrid%20Search-117864?style=for-the-badge" alt="Hybrid Search"/>
   <img src="https://img.shields.io/badge/Vector%20Search-2874A6?style=for-the-badge" alt="Vector Search"/>
@@ -62,9 +61,8 @@ I care about building AI features that behave well outside a demo. That means cl
   <img src="https://img.shields.io/badge/Reranking-7D3C98?style=for-the-badge" alt="Reranking"/>
   <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector"/>
   <img src="https://img.shields.io/badge/Chunking%20%26%20Retrieval-566573?style=for-the-badge" alt="Chunking and Retrieval"/>
-</p>
 
-<p align="left">
+  <!-- AI Providers & Platforms -->
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
   <img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge" alt="Anthropic Claude"/>
   <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
@@ -72,9 +70,18 @@ I care about building AI features that behave well outside a demo. That means cl
   <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure OpenAI"/>
   <img src="https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI Foundry"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-</p>
 
-<p align="left">
+  <!-- Amazon AI & ML Services -->
+  <img src="https://img.shields.io/badge/Amazon%20SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon SageMaker"/>
+  <img src="https://img.shields.io/badge/Amazon%20Rekognition-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Rekognition"/>
+  <img src="https://img.shields.io/badge/Amazon%20Comprehend-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Comprehend"/>
+  <img src="https://img.shields.io/badge/Amazon%20Textract-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Textract"/>
+  <img src="https://img.shields.io/badge/Amazon%20Lex-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Lex"/>
+  <img src="https://img.shields.io/badge/Amazon%20Transcribe-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Transcribe"/>
+  <img src="https://img.shields.io/badge/Amazon%20Polly-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Polly"/>
+  <img src="https://img.shields.io/badge/Amazon%20Q-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Q"/>
+
+  <!-- Machine Learning & Deep Learning -->
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
   <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge" alt="XGBoost"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
@@ -86,9 +93,8 @@ I care about building AI features that behave well outside a demo. That means cl
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
   <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge" alt="ONNX"/>
-</p>
 
-<p align="left">
+  <!-- Backend & Databases -->
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge" alt="REST APIs"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -96,19 +102,17 @@ I care about building AI features that behave well outside a demo. That means cl
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-</p>
 
-<p align="left">
+  <!-- Cloud, DevOps & MLOps -->
   <img src="https://img.shields.io/badge/Azure%20Machine%20Learning-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Machine Learning"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/CI%2FCD-2E86C1?style=for-the-badge" alt="CI/CD"/>
   <img src="https://img.shields.io/badge/Model%20Serving-566573?style=for-the-badge" alt="Model Serving"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-</p>
 
-<p align="left">
+  <!-- AI Evaluation, Observability & Testing -->
   <img src="https://img.shields.io/badge/LLM%20Evaluation-34495E?style=for-the-badge" alt="LLM Evaluation"/>
   <img src="https://img.shields.io/badge/RAG%20Evaluation-117864?style=for-the-badge" alt="RAG Evaluation"/>
   <img src="https://img.shields.io/badge/Prompt%20Engineering-D35400?style=for-the-badge" alt="Prompt Engineering"/>
@@ -122,7 +126,6 @@ I care about building AI features that behave well outside a demo. That means cl
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
-
 ## Featured Projects
 
 <table>
